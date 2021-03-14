@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\morven\Desktop\Podyplomowe\Dita\dita\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">My first DITA map</title>
+    <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;5:16" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">Magda</author>
+        <copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" year="2021"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:27" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </copyright>
+    </topicmeta>
+    <topicref class="- map/topicref " xtrc="topicref:1;12:50" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" href="topics/myfirstconcept.dita" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Untitled"/><navtitle class="- topic/navtitle ">My first document</navtitle><?ditaot gentext?><linktext class="- map/linktext ">My first document</linktext><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">Magda</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" year="2021"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:27" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </copyright></topicmeta></topicref>
+    <topicref class="- map/topicref " xtrc="topicref:2;13:47" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" href="topics/r_reference.dita" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Untitled"/><navtitle class="- topic/navtitle ">My first reference</navtitle><?ditaot gentext?><linktext class="- map/linktext ">My first reference</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is an example of the reference</shortdesc><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">Magda</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" year="2021"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:27" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </copyright></topicmeta></topicref>
+    <topicref class="- map/topicref " xtrc="topicref:3;14:49" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" href="topics/t_myfirsttask.dita" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Untitled"/><navtitle class="- topic/navtitle ">Showing full task in the Oxygen author view by default</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Showing full task in the Oxygen author view by default</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is a definition of a project</shortdesc><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">Magda</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" year="2021"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:27" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </copyright></topicmeta></topicref>
+    <topicref class="- map/topicref " xtrc="topicref:4;15:43" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" href="topics/another.dita" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Untitled"/><navtitle class="- topic/navtitle ">First topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">First topic</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">Magda</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" year="2021"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:27" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </copyright></topicmeta></topicref>
+    <reltable class="- map/reltable " toc="no" xtrc="reltable:1;16:15" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+        <title class="- topic/title " xtrc="title:2;17:16" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">Example reltable</title>
+        <relrow class="- map/relrow " xtrc="relrow:1;18:18" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+    </reltable>
+    <reltable class="- map/reltable " title="Example" toc="no" xtrc="reltable:2;20:31" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+        <relheader class="- map/relheader " xtrc="relheader:1;21:20" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <relcolspec class="- map/relcolspec " toc="no" xtrc="relcolspec:1;22:26" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+            <relcolspec class="- map/relcolspec " toc="no" xtrc="relcolspec:2;23:26" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+            <relcolspec class="- map/relcolspec " toc="no" xtrc="relcolspec:3;24:26" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </relheader>
+        <relrow class="- map/relrow " xtrc="relrow:2;26:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:1;27:22" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+                <topicref class="- map/topicref " xtrc="topicref:5;28:59" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" href="topics/r_reference.dita" toc="no" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Untitled"/><navtitle class="- topic/navtitle ">My first reference</navtitle><?ditaot gentext?><linktext class="- map/linktext ">My first reference</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is an example of the reference</shortdesc></topicmeta></topicref>
+            </relcell>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:2;30:22" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+                <topicref class="- map/topicref " xtrc="topicref:6;31:62" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" href="topics/myfirstconcept.dita" toc="no" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Untitled"/><navtitle class="- topic/navtitle ">My first document</navtitle><?ditaot gentext?><linktext class="- map/linktext ">My first document</linktext></topicmeta></topicref>
+            </relcell>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:3;33:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </relrow>
+        <relrow class="- map/relrow " xtrc="relrow:3;35:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:4;36:22" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+                <topicref class="- map/topicref " xtrc="topicref:7;37:55" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" href="topics/another.dita" toc="no" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Untitled"/><navtitle class="- topic/navtitle ">First topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">First topic</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+            </relcell>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:5;39:22" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+                <topicref class="- map/topicref " xtrc="topicref:8;40:61" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap" href="topics/t_myfirsttask.dita" toc="no" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Untitled"/><navtitle class="- topic/navtitle ">Showing full task in the Oxygen author view by default</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Showing full task in the Oxygen author view by default</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is a definition of a project</shortdesc></topicmeta></topicref>
+            </relcell>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:6;42:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </relrow>
+        <relrow class="- map/relrow " xtrc="relrow:4;44:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:7;45:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:8;46:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:9;47:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </relrow>
+        <relrow class="- map/relrow " xtrc="relrow:5;49:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:10;50:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:11;51:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:12;52:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </relrow>
+        <relrow class="- map/relrow " xtrc="relrow:6;54:17" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap">
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:13;55:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:14;56:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:15;57:23" xtrf="file:/C:/Users/morven/Desktop/Podyplomowe/Dita/dita/Untitled.ditamap"/>
+        </relrow>
+    </reltable>
+</map>
