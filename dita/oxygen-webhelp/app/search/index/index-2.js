@@ -1,0 +1,4 @@
+define(function () {
+// Auto generated index for searching.
+return {"keywords":"0*0*1d","lang":"0*10*-1$j","li":"0*0*1q","magda":"0*0*1n","manual":"0*12*-1$s$1a$1g","margin":"0*0*1s","margin-bottom:15px":"0*0*1r","meta":"0*13*-1$m$15$1b$1j","middle":"0*0*23","my":"1*31*0$3$c,2*32*0$3$9$m","name":"0*2*16$1c$1k","nazwiska":"2*0*i","niedzwiecka":"0*0*1o","oxygen":"0*0*2d,3*30*3$a","paragraph":"0*10*-1$5,1*20*-1$-1$7$9","pl":"0*10*-1$k","platform":"0*0*13","platform</title":"0*0*12","project":"3*10*-1$f","przyklad":"3*0*h","reference":"1*6*b$e,2*40*-1$2$5$7","related":"0*5*28,1*5*a,2*5*k,3*5*i","second":"0*10*-1$4,1*10*-1$6","section":"0*18*-1$6","showing":"0*0*2a,3*30*0$7"};
+});

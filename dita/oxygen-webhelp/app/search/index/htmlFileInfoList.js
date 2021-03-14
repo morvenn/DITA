@@ -1,0 +1,3 @@
+define(function () {
+return ["topics/another.html@@@First topic@@@Second paragraph Section title 1 2 3 idea 1 side idea side idea2 idea 2 side idea 3 &lt;!DOCTYPE HTML&gt; &lt;html lang=&quot;pl&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;utf-8&quot;&gt; &lt;title&gt;User&apos;s manual - how to upload a 4K video to...","topics/myfirstconcept.html@@@My first document@@@Second paragraph Third paragraph...","topics/r_reference.html@@@My first reference@@@This is an example of the reference...","topics/t_myfirsttask.html@@@Showing full task in the Oxygen author view by default@@@This is a definition of a project..."];
+});
