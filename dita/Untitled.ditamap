@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>My first DITA map</title>
+    <topicmeta>
+        <author>Magda</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder/>
+        </copyright>
+    </topicmeta>
+    <topicref href="topics/myfirstconcept.dita"/>
+    <topicref href="topics/r_reference.dita"/>
+    <topicref href="topics/t_myfirsttask.dita"/>
+    <topicref href="topics/another.dita"/>
+    <reltable>
+        <title>Example reltable</title>
+        <relrow/>
+    </reltable>
+    <reltable title="Example">
+        <relheader>
+            <relcolspec/>
+            <relcolspec/>
+            <relcolspec/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="topics/r_reference.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/myfirstconcept.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/another.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_myfirsttask.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell/>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell/>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell/>
+            <relcell/>
+        </relrow>
+    </reltable>
+</map>

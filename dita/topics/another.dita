@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>First topic</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <p>Second paragraph</p>
+        <section id="section_gpp_yvl_y4b">
+            <title>Section title</title>
+            <p/>
+            <p>
+                <ol id="ol_zyl_jwl_y4b">
+                    <li>
+                        <p>1</p>
+                    </li>
+                    <li>
+                        <p>2</p>
+                    </li>
+                    <li>
+                        <p>3</p>
+                    </li>
+                </ol>
+                <dl id="dl_lfs_rwl_y4b">
+                    <dlentry>
+                        <dt>idea 1</dt>
+                        <dd>side idea</dd>
+                        <dd>side idea2</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>idea 2</dt>
+                        <dd>side idea 3</dd>
+                    </dlentry>
+                </dl>
+            </p>
+            <codeblock id="codeblock_cjs_ywl_y4b">&lt;!DOCTYPE HTML>
+&lt;html lang="pl">
+&lt;head>
+	&lt;meta charset="utf-8">
+	&lt;title>User's manual - how to upload a 4K video to the
+Youtube platform&lt;/title>
+	&lt;meta name="description" content="User's manual">
+	&lt;meta name="keywords" content="youtube, manual, 4K, video">
+	&lt;meta name="author" content="Magda Niedzwiecka">
+	&lt;style>
+	li {
+		margin-bottom:15px;
+	}
+	img {
+	vertical-align: middle;
+	}
+	&lt;/style>
+&lt;/head>
+</codeblock>
+            <p>Whatever<note id="note_pxh_b2m_y4b" type="attention"/></p>
+        </section>
+    </conbody>
+</concept>
