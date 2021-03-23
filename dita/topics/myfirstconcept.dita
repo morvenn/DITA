@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="Untitled">
-    <title>My first document</title>
+    <title>Co to jest informacja publiczna?</title>
     <body>
-        <p/>
-        <p>Second paragraph</p>
-        <p>Third paragraph</p>
+        <p>Na tej stronie dowiesz się więcej o tym, dlaczego warto zadawać pytania i uważnie śledzić
+            poczynania władz centralnych i lokalnych, a także o tym, jak je zadawać. </p>
+        <p>Informacją publiczną jest każda informacja o działalności osób oraz instytucji, które
+            pełnią funkcje publiczne, wykonują zadania publiczne lub gospodarują pieniędzmi
+            publicznymi.</p>
+        <p>Dowiedz się więcej.</p>
     </body>
 </topic>

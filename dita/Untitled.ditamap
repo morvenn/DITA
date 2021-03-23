@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Magda działa</title>
+    <title>Informacja publiczna - instrukcja obsługi</title>
     <topicmeta>
         <author>Magda Niedzwiecka - Pruszkowska</author>
         <copyright>
@@ -11,8 +11,13 @@
     </topicmeta>
     <topicref href="topics/myfirstconcept.dita"/>
     <topicref href="topics/r_reference.dita"/>
-    <topicref href="topics/t_myfirsttask.dita"/>
     <topicref href="topics/another.dita"/>
+    <topicref href="topics/zadanie.dita"/>
+    <topicref href="topics/t_myfirsttask.dita"/>
+    <topicref href="topics/koncepcja.dita"/>
+    <topicref href="topics/nastepny.dita"/>
+    <topicref href="topics/topiczek.dita"/>
+    <topicref href="topics/do_zrobienia.dita"/>
     <reltable>
         <title>Example reltable</title>
         <relrow/>

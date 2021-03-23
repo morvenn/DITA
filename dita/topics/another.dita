@@ -1,58 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Untitled">
-    <title>First topic</title>
-    <shortdesc/>
+    <title>O co mogę pytać?</title>
+    <shortdesc>Tu dowiesz się, o co możesz pytać we wniosku o informację publiczną.</shortdesc>
     <conbody>
-        <p/>
-        <p>Second paragraph</p>
         <section id="section_gpp_yvl_y4b">
-            <title>Section title</title>
-            <p/>
+            <title>A dokładniej?</title>
+            <p>O wszystko</p>
             <p>
                 <ol id="ol_zyl_jwl_y4b">
                     <li>
-                        <p>1</p>
+                        <p>Możesz pytać o wszystko, co dotyczy działalności instytucji wykonujących
+                            zadania publiczne (dotyczące choćby ochrony zdrowia, transportu
+                            publicznego, edukacji czy kultury) </p>
                     </li>
                     <li>
-                        <p>2</p>
+                        <p>Możesz pytać o wszystko, co jest związane z wydatkowaniem publicznych
+                            pieniędzy – na przykład o umowy podpisywane przez urząd, faktury,
+                            konkursy etc. </p>
                     </li>
                     <li>
-                        <p>3</p>
+                        <p>Możesz pytać o informacje, które są w posiadaniu władz, a niekoniecznie
+                            zostały przez nie wytworzone – taką informacją będą na przykład wyniki
+                            kontroli przeprowadzonej przez zewnętrzny podmiot np. Regionalną Izbę
+                            Obrachunkową w urzędzie. </p>
+                    </li>
+                    <li>
+                        <p>Możesz uczestniczyć w posiedzeniach rady gminy, Sejmu i Senatu, i
+                            nagrywać je.</p>
                     </li>
                 </ol>
-                <dl id="dl_lfs_rwl_y4b">
-                    <dlentry>
-                        <dt>idea 1</dt>
-                        <dd>side idea</dd>
-                        <dd>side idea2</dd>
-                    </dlentry>
-                    <dlentry>
-                        <dt>idea 2</dt>
-                        <dd>side idea 3</dd>
-                    </dlentry>
-                </dl>
             </p>
-            <codeblock id="codeblock_cjs_ywl_y4b">&lt;!DOCTYPE HTML>
-&lt;html lang="pl">
-&lt;head>
-	&lt;meta charset="utf-8">
-	&lt;title>User's manual - how to upload a 4K video to the
-Youtube platform&lt;/title>
-	&lt;meta name="description" content="User's manual">
-	&lt;meta name="keywords" content="youtube, manual, 4K, video">
-	&lt;meta name="author" content="Magda Niedzwiecka">
-	&lt;style>
-	li {
-		margin-bottom:15px;
-	}
-	img {
-	vertical-align: middle;
-	}
-	&lt;/style>
-&lt;/head>
+            <p>Można też uczestniczyć w posiedzeniach komisji rady gminy. To uprawnienie
+                gwarantowane jest nie przez Konstytucję, która mówi tylko o posiedzeniach całej
+                rady, a przez ustawę o samorządzie gminnym – Art. 11 b. ust. 2: </p>
+            <codeblock id="codeblock_cjs_ywl_y4b">Jawność działania organów gminy obejmuje w szczególności prawo obywateli
+do uzyskiwania informacji, wstępu na sesje rady gminy i posiedzenia jej komisji,
+a także dostępu do dokumentów wynikających z wykonywania zadań publicznych,
+w tym protokołów posiedzeń organów gminy i komisji rady gminy.
 </codeblock>
-            <p>Whatever<note id="note_pxh_b2m_y4b" type="attention"/></p>
+            <p>
+                <note id="note_pxh_b2m_y4b" type="attention">Możesz upubliczniać wszystkie nagrania
+                    pozyskane w ten sposób.</note>
+            </p>
+        </section>
+        <section id="section_r3k_xx1_bpb">
+            <title>Kategorie informacji</title>
+            <p>Nie istnieje zamknięta lista informacji publicznych, istnieją za to przykładowe ich
+                kategorie, jak m.in.: </p>
+            <p>
+                <ol id="ol_sb5_gy1_bpb">
+                    <li>
+                        <p>Informacje o majątku instytucji (np. faktury za wykonanie usługi na rzecz
+                            gminy) </p>
+                    </li>
+                    <li>
+                        <p>Informacje o naborze kandydatów na wolne stanowiska (np. protokół z
+                            posiedzenia komisji konkursowej) </p>
+                    </li>
+                    <li>
+                        <p>Treść wyroków sądowych (np. w sprawie o pozbawienie mandatu radnego)</p>
+                    </li>
+                    <li>
+                        <p>Informacja o prowadzonych rejestrach (np. rejestr umów)</p>
+                    </li>
+                    <li>
+                        <p>Informacje dotyczące nie tylko samej instytucji, ale też jej pracowników
+                            pełniących funkcje publiczne, opłacanych ze środków publicznych (np.
+                            pracownik urzędu skarbowego, strażnik miejski, dyrektor szpitala czy
+                            wykładowca akademicki). Pytania mogą dotyczyć m.in. wykształcenia,
+                            podstawowego wynagrodzenia czy przyznawanych nagród.</p>
+                    </li>
+                </ol>
+            </p>
         </section>
     </conbody>
 </concept>
