@@ -2,9 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Untitled">
     <title>First topic</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <conbody>
-        <p></p>
+        <p/>
         <p>Second paragraph</p>
         <section id="section_gpp_yvl_y4b">
             <title>Section title</title>
