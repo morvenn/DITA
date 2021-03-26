@@ -16,6 +16,11 @@
     <topicref href="topics/t_myfirsttask.dita"/>
     <topicref href="topics/nastepny.dita"/>
     <topicref href="topics/koncepcja.dita"/>
+    <topicref href="out/pdf/Untitled.pdf" format="pdf">
+        <topicmeta>
+            <navtitle>PDF</navtitle>
+        </topicmeta>
+    </topicref>
     <reltable>
         <title>Tabela</title>
         <relrow/>
