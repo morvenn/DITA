@@ -71,48 +71,22 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>dita/topics/r_reference.dita</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Magda_WebHelp Responsive</String>
-                                        <String>Magda_WebHelp_Responsive</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>dita/Untitled.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Magda_WebHelp Responsive</String>
+                                        <String>Magda_WebHelp_Responsive_tiles</String>
                                         <String>Untitled (PDF2)</String>
-                                        <String>Magda_WebHelp_Responsive</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
                                         <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
-                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
@@ -124,22 +98,16 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Magda_WebHelp Responsive</String>
-                                        <String>Magda_WebHelp_Responsive</String>
                                         <String>Untitled (PDF2)</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
@@ -202,10 +170,10 @@
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
-                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/blue</String>
+                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen</String>
                                         </field>
                                         <field name="descriptorRelativePath">
-                                            <String>blue-tree.opt</String>
+                                            <String>oxygen-tiles.opt</String>
                                         </field>
                                         <field name="isCustomTemplate">
                                             <Boolean>false</Boolean>
@@ -228,36 +196,6 @@
                                     <list>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>force-unique</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="value">
-                                                <String>true</String>
-                                            </field>
-                                            <field name="defaultValue">
-                                                <String>false</String>
-                                            </field>
-                                            <field name="type">
-                                                <Integer>4</Integer>
-                                            </field>
-                                            <field name="possibleValues">
-                                                <String-array>
-                                                    <String>true</String>
-                                                    <String>false</String>
-                                                    <null/>
-                                                </String-array>
-                                            </field>
-                                            <field name="possibleValuesDescriptions">
-                                                <String-array>
-                                                    <String></String>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                        </ditaParameter>
-                                        <ditaParameter>
-                                            <field name="name">
                                                 <String>args.xhtml.classattr</String>
                                             </field>
                                             <field name="description">
@@ -276,6 +214,36 @@
                                                 <String-array>
                                                     <String>yes</String>
                                                     <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>force-unique</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>true</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>false</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>true</String>
+                                                    <String>false</String>
                                                     <null/>
                                                 </String-array>
                                             </field>
@@ -313,7 +281,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Magda_WebHelp Responsive</String>
+                                    <String>Magda_WebHelp Responsive_tiles_</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>
@@ -444,10 +412,10 @@
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
-                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/blue</String>
+                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen</String>
                                         </field>
                                         <field name="descriptorRelativePath">
-                                            <String>blue-tree.opt</String>
+                                            <String>oxygen-tiles.opt</String>
                                         </field>
                                         <field name="isCustomTemplate">
                                             <Boolean>false</Boolean>
@@ -470,36 +438,6 @@
                                     <list>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>force-unique</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="value">
-                                                <String>true</String>
-                                            </field>
-                                            <field name="defaultValue">
-                                                <String>false</String>
-                                            </field>
-                                            <field name="type">
-                                                <Integer>4</Integer>
-                                            </field>
-                                            <field name="possibleValues">
-                                                <String-array>
-                                                    <String>true</String>
-                                                    <String>false</String>
-                                                    <null/>
-                                                </String-array>
-                                            </field>
-                                            <field name="possibleValuesDescriptions">
-                                                <String-array>
-                                                    <String></String>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                        </ditaParameter>
-                                        <ditaParameter>
-                                            <field name="name">
                                                 <String>args.xhtml.classattr</String>
                                             </field>
                                             <field name="description">
@@ -518,6 +456,36 @@
                                                 <String-array>
                                                     <String>yes</String>
                                                     <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>force-unique</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>true</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>false</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>true</String>
+                                                    <String>false</String>
                                                     <null/>
                                                 </String-array>
                                             </field>
@@ -555,7 +523,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Magda_WebHelp_Responsive</String>
+                                    <String>Magda_WebHelp_Responsive_tiles</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>

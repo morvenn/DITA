@@ -2,15 +2,55 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="zadanie">
     <title>Jak zadać pytanie?</title>
-    <shortdesc/>
+    <shortdesc>Przykłady pism, maili - zdobądź informację, której potrzebujesz</shortdesc>
     <taskbody>
-        <context>
-            <p/>
+        <context id="context_uks_lng_bpb">
+            <p>Kiedy masz pytanie do którejś z <xref href="r_reference.dita">wymienionych</xref>
+                instytucji, pierwszy krok, który warto wykonać, to zajrzenie do jej Biuletynu
+                Informacji Publicznej (to strona internetowa, na której bezpłatnie udostępniane są
+                informacje publiczne). Jeśli nie znajdziesz tam interesującej Cię informacji, zadaj
+                pytanie! Może to być zwykły mail, list wysłany pocztą lub zaniesiony osobiście. Nie
+                musisz szukać adresu konkretnego urzędnika, możesz napisać na adres ogólny
+                instytucji. Ważne, aby uściślić, w jakiej formie mają być udostępnione dokumenty i
+                na jaki adres wysłane. </p>
+            <p>A zatem:</p>
         </context>
-        <steps>
+        <steps id="steps_vks_lng_bpb">
             <step>
-                <cmd/>
+                <cmd>Przestudiuj BIP w poszukiwaniu informacji</cmd>
+            </step>
+            <step>
+                <cmd>Jeśli nie znalazłeś/aś informacji, prześlij korespondencję w dowolnej formie,
+                    wnioskując o interesujące cię dane. Oto przykładowa treść wniosku:</cmd>
+                <info>Wersja krótka: Wnoszę o przesłanie na ten adres mailowy skanów wszystkich umów
+                    zawartych w kwietniu tego roku przez wójta.</info>
+                <info>
+                    <p>Wersja długa: WNIOSEK O UDOSTĘPNIENIE INFORMACJI PUBLICZNEJ</p>
+                    <p>Na podstawie art. 61 ust. 1 i 2 Konstytucji RP oraz art. 10 ust. 1 ustawy o
+                        dostępie do informacji publicznej wnoszę o udostępnienie następującej
+                        informacji publicznej:</p>
+                    <p>- informacji takiej a takiej.</p>
+                    <p>Wnoszę o przesłanie wskazanej informacji w formie skanów
+                        dokumentów/kserokopii/...../Wnoszę o umożliwienie wglądu do tych dokumentów
+                        urzędowych w dniu takim a takim w siedzibie organu.</p>
+                    <p>Powyższe informacje proszę przesłać za pośrednictwem poczty elektronicznej na
+                        adres email ..../za pośrednictwem platformy ePUAP/na adres: ul...</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Nie musisz podpisywać wniosku imieniem oraz nazwiskiem.</cmd>
+                <tutorialinfo>
+                    <note id="note_fbf_l4g_bpb">Jeżeli urząd zamieścił oczekiwane przez Ciebie
+                        informacje w Biuletynie Informacji Publicznej, nie zdziw się, że w
+                        odpowiedzi na wniosek otrzymasz link do strony internetowej BIP, pod którym
+                        znajdziesz interesujące Cię informacje. Jeśli urząd nie odpowie lub jego
+                        odpowiedź będzie wymijająca czy niepełna, możesz napisać skargę na
+                        bezczynność. Gdy urząd wyda decyzję odmawiającą przekazania Ci informacji,
+                        masz prawo odwołać się lub złożyć skargę na decyzję do sądu
+                        administracyjnego.</note>
+                </tutorialinfo>
             </step>
         </steps>
+        
     </taskbody>
 </task>

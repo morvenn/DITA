@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="koncepcja">
-    <title>koncepcja</title>
-    <shortdesc/>
+    <title>Źródła</title>
+    <shortdesc>Tu znajdziesz odnośniki do źródeł informacji zawartych na tej stronie</shortdesc>
+    <prolog>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>CC BY-SA</copyrholder>
+        </copyright>
+    </prolog>
     <conbody>
-        <p/>
+        <p>Przepisy prawa</p>
+        <p> art. 61 ust. 1 Konstytucji RP</p>
+        <p> art. 4 ust. 1 ustawy o dostępie do informacji publicznej</p>
+        <p> art. 6 ust. 1 ustawy o dostępie do informacji publicznej</p>
     </conbody>
+    <related-links>
+        <link href="https://siecobywatelska.pl/" format="html" scope="external"/>
+        <link href="https://informacjapubliczna.org/" format="html" scope="external"/>
+    </related-links>
 </concept>

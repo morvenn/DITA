@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="Untitled">
-    <title>Showing full task in the Oxygen author view by default</title>
-    <shortdesc>This is a definition of a project</shortdesc>
+    <title>Jakie informacje o sobie muszę podać?</title>
+    <shortdesc>Ile swoich danych mam podać instytucji, którą proszę o informację
+        publiczną?</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context>Podajesz tylko takie informacje, które są niezbędne do zrealizowania wniosku
+            zgodnie z formą i sposobem, które w nim wskazaliśmy.<p>A zatem:</p></context>
         <steps>
             <step>
-                <cmd>Step 1</cmd>
+                <cmd>Jeżeli wnieśliśmy o wysłanie skanów dokumentów za pośrednictwem poczty
+                    elektronicznej, to wystarczy podanie adresu e-mail.</cmd>
+            </step>
+            <step>
+                <cmd>Jeśli wnieśliśmy o wysłanie informacji pocztą tradycyjną – musimy podać adres
+                    do doręczeń.</cmd>
             </step>
         </steps>
-        <result id="result_x1z_qcm_y4b"/>
-        <example id="example_thk_n1m_y4b">Przyklad 1</example>
+        <result id="result_x1z_qcm_y4b">Nie ma obowiązku podawania we wniosku swojego imienia i
+            nazwiska, adresu zamieszkania i innych danych, o ile nie są one niezbędne do
+            zrealizowania wniosku. Dane te będą potrzebne wówczas, gdy organ zdecyduje się na
+            wydanie decyzji o odmowie udostępnienia informacji publicznej. Gdy ich nie podaliśmy we
+            wniosku, to zostaniemy wezwani do ich uzupełnienia. Jeżeli spodziewamy się decyzji
+            odmownej i chcemy przyspieszyć postępowanie, dobrze jest od razu złożyć podpisany
+            wniosek oraz podać adres do doręczeń.</result>
     </taskbody>
 </task>

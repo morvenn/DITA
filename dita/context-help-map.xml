@@ -5,10 +5,8 @@
    <appContext helpID="Untitled" path="topics/another.html"/>
    <appContext helpID="zadanie" path="topics/zadanie.html"/>
    <appContext helpID="Untitled" path="topics/t_myfirsttask.html"/>
-   <appContext helpID="koncepcja" path="topics/koncepcja.html"/>
    <appContext helpID="nastepny" path="topics/nastepny.html"/>
-   <appContext helpID="Untitled" path="topics/topiczek.html"/>
-   <appContext helpID="do_zrobienia" path="topics/do_zrobienia.html"/>
+   <appContext helpID="koncepcja" path="topics/koncepcja.html"/>
    <appContext helpID="Untitled" path="topics/r_reference.html"/>
    <appContext helpID="Untitled" path="topics/myfirstconcept.html"/>
    <appContext helpID="Untitled" path="topics/another.html"/>
